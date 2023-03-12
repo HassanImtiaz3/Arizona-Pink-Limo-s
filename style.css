@@ -3,12 +3,19 @@
     padding: 0;
     box-sizing: border-box;
     color: #e71fff;
+    font-family: 'Nexo';
+}
+
+@font-face {
+    font-family: 'Nexo';
+    src: url(/Nexo.ttf);
 }
 
 body {
     background-color: rgb(255, 255, 255);
     color: purple;
-    font-family: "Inter", Arial, sans-serif;
+    /* font-family: "Inter", Arial, sans-serif; */
+   
 }
 
 
@@ -93,15 +100,15 @@ i {
     }
     i {
         color: white;
-        font-size: 10px;
+        font-size: 14px;
     }
     .mainImage {
         position: absolute;
         top: 5px;
-        left: 80px;
+        left: 70px;
     }
     .mainImage p {
-        font-size: 25px;
+        font-size: 35px;
         font-weight: 800;
     }
     .mainImage1 {
