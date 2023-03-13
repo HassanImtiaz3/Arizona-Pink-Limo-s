@@ -87,7 +87,7 @@ i {
 
 @media screen and (max-width: 480px) {
     .centered-div {
-        font-size: 63px;
+        font-size: 58px;
         top: 53%;
         line-height: 0.6;
     }
