@@ -87,7 +87,7 @@ i {
 
 @media screen and (max-width: 480px) {
     .centered-div {
-        font-size: 58px;
+        font-size: 52px;
         top: 53%;
         line-height: 0.6;
     }
@@ -103,7 +103,7 @@ i {
 
 @media screen and (min-width: 769px) {
     .centered-div {
-        font-size: 70px;
+        font-size: 90px;
         line-height: 0.9;
     }
 }
